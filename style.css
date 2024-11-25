@@ -1,0 +1,1069 @@
+.responsivv{
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+ 
+   
+}
+.menuimg{
+    width:32px;
+    height: 32px;
+    margin-top: 10px;
+    margin-left: 5px;
+
+
+
+}
+.responsiv{
+    display: flex;
+    flex-wrap: wrap;
+}
+.githupimg{
+    width: 24px;
+    height: 24px;
+    margin-top: 15px;
+    margin-left: 5px;
+
+
+
+}
+.contener{
+    align-items: center;
+    border: 1px solid #FFFFFF40;
+    
+}
+.menyu_title{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+    margin-left: 1300px;
+    gap: 15px;
+    align-items: center;
+}
+.sekshin_1{
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 28px;
+    letter-spacing: -1px;
+    text-align: center;
+    width: 136px;
+    height: 28px;
+
+
+
+}
+.rang{
+    font-family: Poppins;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 28px;
+    letter-spacing: -1px;
+    text-align: center;
+    color: #39965F;
+    margin-top: 15px;
+    margin-left: -21px;
+ 
+
+
+}
+.saydbarstart{
+    width:288px;
+    height:auto;
+    border: 1px solid black;
+    background-color: black;
+
+
+
+
+}
+.saydbar_3img{
+    border: 1px solid #FFFFFF40;
+    margin-left: 8px;
+}
+.saydber_img{
+    width: 269px;
+    height: 260px;
+    padding: 10px;
+
+}
+.saydber_text{
+    width: 110px;
+    height: 24px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: center;
+    color: white;
+
+
+
+}
+.saydber_textlar{
+    padding: 6px 8px 6px 8px;
+    gap: 15px;
+    opacity: 0px;
+    color: white;
+    padding: 1px;
+
+
+    
+
+}
+.saydbar_3img{
+    width: Hug (100px)px;
+    height: Hug (26px)px;
+    padding: 6px 8px 6px 8px;
+    gap: 10px;
+    border-radius: 8px;
+    opacity: 0px;
+
+}
+.sekshen1{
+    border-radius: 8px;
+    background: #FFFFFF1A;
+    padding: 8px;
+}
+.pochta{
+    width: auto;
+    height: 24px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    color: white;
+    margin-top: 20px;
+
+}
+.gmaill{
+    width: 86px;
+    height: 24px;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    text-align: center;
+    color: #FFFFFFB2;
+    margin-top: -10px;
+
+
+    
+
+
+}
+.pochtaimg{
+    width: Fixed (44px)px;
+    height:44px;
+    gap: 20px;
+    border-radius: 6px;
+    margin-top: 10px;
+    padding: 10px;
+    
+}
+.chiziq{
+    border-bottom: 1px solid #FFFFFF40;
+}
+.content_img{
+    padding: 1px;
+    width:1589px;
+    height: 1000px;
+    border: 2px #FFFFFFB2;;
+    background-image: url('./img/image.png')
+    
+    
+}
+.contentent_text{
+    width: 633px;
+    height: 108px;
+    color: white;
+    margin: 200px auto;
+
+}
+.rang_berish{
+    font-family: Poppins;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 54px;
+    text-align: center;
+    color: #39965F;
+
+}
+.rang_berish2{
+    font-family: Poppins;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 54px;
+    text-align: center;
+    color: #ffffff;
+}
+.content_text1{
+    width: 633px;
+    height: 82px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    text-align: center;
+
+}
+.content_button{
+    width: Hug (169px)px;
+    height: Hug (43px)px;
+    padding: 8px 44px 8px 44px;
+    gap: 10px;
+    border-radius: 8px;
+    opacity: 0px;
+    background: linear-gradient(93.7deg, #39965F 32.68%, #287045 61.31%, #39965F 79.17%);
+    color: white;
+    margin-left: 250px;
+
+}
+.ortagaolish{
+    margin-left: 150px;
+}
+.active{
+    color: white;
+    border-radius: 1px;
+    border-bottom: 4px solid  #39965F  ;
+}
+.Haqida{
+    color: white;
+    
+
+}
+.sekshen_1{
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    text-align: left;
+    width: 912px;
+    height: 243px;
+    margin-left: 20px;
+    
+}
+.loyihalarrangberi{
+    
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 27px;
+    text-align: left;
+    color: #39965F;
+
+}
+
+.haqimda_button{
+    width:181px;
+    height:43px;
+    border-radius:8px;
+    background: #39965F;
+    color: white;
+    margin-left: 20px;
+    margin-top: -200px;
+    
+
+}
+.menxaqimda{
+    margin-left: 20px;
+}
+.asbobuskunalar{
+    width: 257px;
+    height: 42px;
+    font-family: Poppins;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 42px;
+    text-align: left;
+    color: white;
+    margin: 90px 20px;
+
+}
+.active1{
+    width: 112px;
+    height: 8px;
+    border-radius: 10px;
+    background: #39965F;
+    margin-top: -80px;
+    margin-left: 20px;
+
+}
+.active2{
+    width: 112px;
+    height: 8px;
+    border-radius: 10px;
+    background: #39965F;
+    margin-left: 20px;
+    margin-top: -5px;
+    
+}
+.pastkirasmlar{
+    width:213px;
+    height:124px;
+    padding: 20px;
+    gap: 14px;
+    border-radius: 12px;
+    border: 1px;
+    background: #1B1B1B;
+    margin-left: 20px;
+    margin-top: 20px;
+    position: relative;
+    margin: 10px;
+
+
+}
+.tooltip{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(255, 255, 255); /* Yozuvning fon rangini ko'rinadigan qilish */
+    color: #fff;
+    text-align: center;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0; /* Boshlanishda ko'rinmaydi */
+ 
+}
+.pastkirasmlar:hover img{
+    transform: scale(2.2);
+}
+.pastkirasmlar:hover.tooltip{
+    visibility: visible; /* Yozuv ko'rinadi */
+}
+.htmlrasm{
+    width: 74px;
+    height: 64px;
+    padding: 30px 60px;
+}
+.navber_rasmlar{
+    width:1102px;
+    height:268px;
+   
+
+}
+.cssrasm{
+    width: 40px;
+    height: 30px;
+    padding: 50px 90px;
+     
+
+}
+.saydber_img1{
+    width: 250px;
+    height: 200px;
+    padding: 20px;
+}
+.mennmaqilaolaman{
+    width: 362px;
+    height: 42px;
+    font-family: Poppins;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 42px;
+    text-align: left;
+    color: white;
+    margin-top: 200px;
+    margin-left: 20px;
+
+}
+.active3{
+    width: 112px;
+    height: 8px;
+    gap: 0px;
+    border-radius: 10px;
+    background-color: #287045;
+    margin-left: 20px;
+    margin-top: -10px;
+    
+}
+.ichkarisi{
+    width: 1000px;
+    height:268px;
+    margin-top: 20px;
+    margin-left: 20px;
+   gap: 20px;
+
+}
+
+.navberichi{
+    width:444px;
+    height:124px;
+    padding: 20px 0px 0px 0px;
+    gap: 14px;
+    border-radius: 12px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    border: 1px solid #FFFFFF40;
+    padding: 10px;
+}
+.navberichi:hover{
+    transform: scale(1.1);
+}
+.seoimg{
+    width:64px;
+    height:64px;
+    border-radius: 8px 0px 0px 0px;
+    align-items: center;
+    margin-top: 10px;
+
+
+}
+.seo_text{
+    width: 38px;
+    height: 30px;
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px;
+    text-align: left;
+    color: white;
+
+
+
+}
+.sekshen_2{
+    width: 326px;
+    height: 48px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #FFFFFFB2;
+    margin-left: 75px;
+    margin-top: -40px;
+
+
+
+}
+.loyxalar{
+    width: 154px;
+    height: 48px;
+    font-family: Poppins;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 48px;
+    text-align: left;
+    color: white;
+    margin-left: 20px;
+
+}
+.loyiha_button{
+    width:140px;
+    height:44px;
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 6px;
+    background: #FFFFFF40;
+    border: 1px solid #FFFFFF40
+
+}
+.loyiha_button:hover{
+    transform: scale(1.1);
+}
+.haqida_end{
+    width: 114px;
+    height: 42px;
+    font-family: Poppins;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 42px;
+    color: white;
+    margin: 100px 20px;
+
+}
+.haqida_end:hover{
+    transform: scale(1.1);
+}
+
+.active4{
+    width: 212px;
+    height: 8px;
+    border-radius: 10px;
+    background: #39965F;
+    margin-top: -70px;
+    margin-left: 20px;
+
+
+}
+.haqida-end{
+    width:213px;
+    height:124px;
+    padding: 20px;
+    border-radius: 12px;
+    border: 1px;
+    opacity: 0px;
+    background: #1B1B1B;
+    margin: 30px 20px;
+   
+
+
+}
+.mijozlar{
+    margin-top: 40px;
+    color: white;
+
+}
+
+.mijozlar:hover{
+    width: auto;
+    height: auto;
+    background-color: aqua;
+     transition: calc(1s);
+     border-radius: 10px;
+     color: red;
+     background: #1B1B1B;
+
+}
+.filterlar{
+    width:100px;
+    height:34px;
+    padding: 10px 24px 10px 24px;
+    gap: 10px;
+    border-radius: 6px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    background: #1B1B1B;
+    margin-top: 30px;
+    margin-left: 20px;
+
+}
+.Filtrlash{
+    width: 62px;
+    height: 24px;
+    background: #FFFFFF;
+    background: #1B1B1B;
+    color: white;
+    font-family: Poppins;
+    font-size: 19px;
+    font-weight: 400;
+    margin-top: 5px;
+ 
+
+
+}
+.filter_img{
+    margin-top: 10px;
+}
+.responsiv-contener{
+    width: Fill (912px)px;
+    height:44px;
+    opacity: 0px;
+    margin-top: 10px;
+
+}
+.header-selekt{
+    width:100px;
+    height:24px;
+    padding: 10px 24px 10px 24px;
+    gap: 10px;
+    border-radius: 6px;
+    border: 1px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    background: #272727;
+    margin-top: 40px;
+    gap: 40px;
+
+    
+
+}
+.selekt_3{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-left: 600px;
+}
+  
+.header-selekt2{
+    width:100px;
+    height:24px;
+    padding: 10px 24px 10px 24px;
+    gap: 10px;
+    border-radius: 6px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    background: #272727;
+    margin-top: 40px;
+    gap: 40px;
+    background: #1B1B1B;
+    border: 1px solid #FFFFFF40
+}
+.header-selekt2:hover{
+    transform: scale(1.1);
+    background-color: aqua;
+    color: red;
+}
+.header-selekt:hover{
+    transform: scale(1.1);
+    background-color: aqua;
+    color: red;
+}
+
+.pointer{
+    margin-left: -90px;
+    margin-top: -10px;
+}
+.pointer:hover{
+      
+      transform: scale(1.1);
+      opacity: 50%;
+    }
+
+  
+.shapka{
+    width:80%;
+    height:684px;
+    margin: 100px 20px;
+
+}
+.loyixalar_rasm1{
+    width:544px;
+    height:340px;
+    padding: 12px;
+    gap: 12px;
+    border-radius: 12px;
+    opacity: 0px;
+
+}
+.loyixa_text{
+    margin-left: 10px;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    padding: 10px;
+    margin-top: -25px;
+}
+.sekshin1{
+    width: 130px;
+    height: 30px;
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px;
+    text-align: left;
+    color: #FFFFFF;
+}
+.sekshin1:hover{
+    transform: scale(1.9);
+}
+.sekshen2{
+    width: 51px;
+    height: 24px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    margin-left: 350px;
+
+
+
+}
+.rasmcha{
+    width: 8px;
+    height: 8px;
+    gap: 0px;
+    border-radius: 8px;
+    opacity: 0px;
+    background: #C5221F;
+
+
+}
+.rasmcha1{
+    width: 8px;
+    height: 8px;
+    gap: 0px;
+    border-radius: 8px;
+    opacity: 0px;
+    background: #39965F;
+
+}
+.sekshin3{
+    width: 172px;
+    height: 30px;
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px;
+    text-align: left;
+    margin-left: 8px;
+       
+}
+.loyixa_text3{
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    padding: 11px 10px;
+    margin-top: -25px;
+    margin-left: -10px;
+}
+.sekshen3{
+    width: 31px;
+    height: 24px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    margin-left: 350px;
+}
+.pastkiqism{
+    width:544px;
+    height:52px;
+    gap: 12px;
+    opacity: 0px;
+    margin-left: 10px;
+    margin-top: -10px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: left;
+
+}
+.ranguchun a{
+    color: #39965F;
+
+}
+.ent{
+    gap: 10px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: left;
+    margin-left: 10px;
+
+
+}
+.loyixa_contener{
+    width: 90%;
+    height: 208px;
+    top: 936px;
+    left: 20px;
+    gap: 32px;
+    border-radius: 12px;
+    opacity: 0px;
+    margin-top: 300px;
+    margin-left: 50px;
+    background: #1B1B1B;
+
+
+}
+.telegram_rasim{
+    width:168px;
+    height:168px;
+    top: 20px;
+    left: 20px;
+    gap: 10px;
+    border-radius: 6px;
+    background: #1B92D140;
+    margin: 20px;
+
+    
+}
+.telegram{
+    width: 59.69px;
+    height: 49.33px;
+    margin: 50px 50px;
+
+
+}
+.title_1{
+    width: 228px;
+    height: 42px;
+    color: #FFFFFF;
+
+
+}
+.title_2{
+    width: 406px;
+    height: 54px;
+    color: #FFFFFFB2;
+
+   
+
+}
+
+.telegram_buton{
+
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    background: #39965F;
+    border-radius: 10px;
+    padding: 9px;
+
+}
+.telegram_buton:hover{
+    color: blue;
+    font-size: 24px;
+}
+
+.megaphoneimg{
+    display: block;
+    margin-left: 979px;
+    margin-top: -175px;
+}
+.clippath{
+    display: block;
+    margin-left: -130px;
+    margin-top: -200px;
+}
+.retangle3{
+    display: block;
+    margin-top: -150px;
+    margin-left: 79px;
+}
+.retangle4{
+    display: block;
+    margin-top: 100px;
+}
+.rasm_4{
+    margin-top: -310px;
+    margin-left: 130px;
+}
+.boglanish_pochta{
+    width:213px;
+    height:124px;
+    padding: 20px;
+    border-radius: 12px;
+    border: 1px;
+    opacity: 0px;
+    background: #1B1B1B;
+    margin: 30px 20px;
+    gap: 20px;
+
+}
+.boglanish{
+    width:290.67px;
+    height:190px;
+    padding: 28px;
+    gap: 0px;
+    border-radius: 12px;
+    border: 1px;
+    background-color: #1B1B1B;
+    margin-left: 20px;
+
+}
+.boglanish:hover{
+    transform: rotate(1deg);
+    animation: 1.s;
+    background-color: rgba(200, 255, 0, 0.61);
+}
+.boglanish_end{
+    margin: 20px 20px;
+    gap: 20px;
+}
+
+.pochta_img{
+    width:64px;
+    height:64px;
+    gap: 10px;
+    border-radius: 6px;
+   margin: 10px 100px;
+}
+.pochta_img:hover{
+    background-color: red;
+}
+.E-poctatext{
+    width: 96px;
+    height: 30px;
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px;
+    text-align: center;
+    color: white;  
+    margin-left: 80px;
+   margin-top: -10px;
+}
+.gmail_uchun{
+    width: 195px;
+    height: 24px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+    color: white;  
+    margin-left: 30px;
+
+
+}
+.gmail_uchun:hover{
+    background-color: aqua;
+    color: red;
+    border-radius: 410%;
+    padding: 10px;
+}
+.E-poctatext:hover{
+    transform: scale(1.1);
+    color: #00bfff;
+}
+.telegram_uchun{
+    margin-left: 70px;
+}
+.telegram_uchun:hover{
+    width: 120px;
+    transform: scale(1.1);
+    color: #004d40;
+    box-shadow: 10px 8px 20px rgb(253, 26, 26);
+    border-radius: 30px;
+    padding: 10px;
+   
+}
+.telefon_uchun{
+    width: 195px;
+    height: 24px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+    color: white;  
+    margin-left: 30px;
+}
+.telefon_uchun:hover{
+    transform: scale(1.1);
+    color: greenyellow;
+    box-shadow: 10px 10px 20px 30px color(srgb red green blue);
+}
+.sorov_yuborish{
+    width: 226px;
+    height: 42px;
+    font-family: Poppins;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 42px;
+    color: #FFFFFF;
+    margin-top: 50px;
+    margin-left: 20px;
+    
+
+}
+.contener_boglanish{
+    width:912px;
+    height:420px;
+    padding: 20px;
+    gap: 20px;
+    border-radius: 12px;
+    margin-top: 20px;
+    margin-left: 50px;
+    background-color: #1B1B1B;
+
+}
+.navber_ichi{
+    width: Fill (872px)px;
+    height:76px;
+    gap: 20px;
+    opacity: 0px;
+    gap: 300px;
+
+}
+.ism{
+    width: 73px;
+    height: 24px;
+    color: white;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+
+
+}
+.input_uchun{
+    width:220px;
+    height:4px;
+    padding: 10px 20px 10px 20px;
+    gap: 0px;
+    border-radius: 8px;
+    margin-top: -10px;
+
+}
+.input_uchun2{
+    width:120px;
+    height:4px;
+    padding: 10px 20px 10px 20px;
+    gap: 0px;
+    border-radius: 8px;
+    margin-top: -10px;
+}
+#cars{
+  border-radius: 30px;
+  
+}
+.izox_yozish{
+    width:872px;
+    height:224px;
+    margin-top: 20px;
+
+}
+.izoh_text{
+    width: 76px;
+    height: 24px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: white;    
+
+}
+.izoh{
+    width:872px;
+    height:192px;
+    padding: 10px 20px 10px 20px;
+    gap: 0px;
+    border-radius: 8px;
+    border: 1px;
+    opacity: 0px;
+    border: 1px solid #39965F
+
+}
+.theend_opshi{
+    width: 381px;
+    height: 24px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: #FFFFFF;    
+
+}
+.battn{
+    width:158px;
+    height:40px;
+    padding: 8px 44px 8px 44px;
+    gap: 10px;
+    border-radius: 8px;
+    opacity: 0px;
+    background: #39965F;
+   color: white;
+   margin-top: 10px;
+
+}
+.content_img1{
+    padding: 1px;
+    width:1589px;
+    height: auto;
+    border: 2px #FFFFFFB2;;
+    background-image: url('./img/image.png')
+}
+.content_img2{
+    padding: 1px;
+    width:1589px;
+    height: auto;
+    border: 2px #FFFFFFB2;;
+    background-image: url('./img/image.png')
+}
